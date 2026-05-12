@@ -1,0 +1,73 @@
+Sheet,Column 1,Column 2,Column 3,Column 4,Column 5,Column 6,Column 7,Column 8,Column 9,Column 10,Column 11,Column 12
+NRFI Top 10,Rank,Matchup,Starting Pitchers,Confidence Score,Why,,,,,,,
+NRFI Top 10,1,DET @ NYM,Jack Flaherty vs Freddy Peralta,66%,"Best blend of arms + environment. Citi Field is run-suppressing, 59°F helps pitchers, and Mets top two before Soto are not scary run creators. Peralta’s fastball/slider profile matches well vs a young DET order.",,,,,,,
+NRFI Top 10,2,ARI @ TEX,Zac Gallen vs MacKenzie Gore,65%,"Roof removes weather variance. Gore gets a soft current top three: Pederson/Nimmo/Seager all modest wOBA form. ARI has Carroll risk, but Marte/Perdomo are not major first-inning damage signals.",,,,,,,
+NRFI Top 10,3,SEA @ HOU,Bryan Woo vs Tatsuya Imai,62%,"Closed-roof environment. Woo’s command/low-walk profile is ideal for NRFI, though Yordan Alvarez is the clear HR red flag. SEA top three are good but not overwhelming.",,,,,,,
+NRFI Top 10,4,COL @ PIT,Michael Lorenzen vs Paul Skenes,61%,"Skenes is the anchor; PNC Park suppresses HR carry. Downgrade because Lorenzen must survive Cruz/Lowe/Reynolds, and PIT’s left-handed top-order power is live.",,,,,,,
+NRFI Top 10,5,SF @ LAD,Adrian Houser vs Yoshinobu Yamamoto,58%,"Yamamoto should control SF’s contact-heavy top. Dodger Stadium/cooler weather helps. Risk is obvious: Houser must navigate Ohtani/Freeman/Betts, even if their current top-order form is muted.",,,,,,,
+NRFI Top 10,6,LAA @ CLE,Walbert Urena vs Slade Cecconi,56%,"65°F and light wind. Angels leadoff/top-three profile is uneven after Trout. CLE has Kwan discipline plus Ramirez danger, and Urena’s walk risk keeps this out of the elite tier.",,,,,,,
+NRFI Top 10,7,MIA @ MIN,Eury Perez vs Bailey Ober,55%,"Pitchers are good enough, but this is fragile: Miami’s top three are all high-contact/high-wOBA bats and Target Field shows 30 mph wind with direction unavailable. Only a lean if wind is not blowing out.",,,,,,,
+NRFI Top 10,8,SD @ MIL,Bradgley Rodriguez vs Brandon Sproat,54%,Roof helps and SD’s top three are cold/sub-.300 wOBA. Downgrade from Brewers’ Turang/Chourio/Yelich form and uncertainty around SD’s starter situation.,,,,,,,
+NRFI Top 10,9,PHI @ BOS,Zack Wheeler vs Jovani Moran,52%,"Wheeler can blank Boston’s top, but Moran vs Turner/Schwarber/Harper at Fenway is a major YRFI threat. Weather/park are not friendly enough for high confidence.",,,,,,,
+NRFI Top 10,10,WAS @ CIN,Miles Mikolas vs Brady Singer,51%,"Top-order profiles are not dominant outside James Wood/Elly De La Cruz, but Great American Ball Park, 76°F, and contact-oriented starters make this thin.",,,,,,,
+Pitcher Props,Rank,Player & Prop,Calculated Likelihood,Technical Reasoning,,,,,,,,
+Pitcher Props,1,MacKenzie Gore O 4.5 K,63%,"Gore’s breaking-ball whiff profile projects well enough against ARI, and the low 4.5 line gives cushion. Marte/Perdomo are contact risks, but the matchup does not require a ceiling outing. Umpire data unavailable.",,,,,,,,
+Pitcher Props,2,Freddy Peralta O 5.5 K,63%,"Best if available at 5.5; much weaker at 6.5. Peralta’s four-seam/slider combo has above-average whiff, and DET’s lower half adds strikeout paths. Citi Field helps run prevention and leash.",,,,,,,,
+Pitcher Props,3,Tatsuya Imai O 4.5 K,61%,"Splitter/slider shape should play vs Seattle’s swing-and-miss bats, especially Julio/Raleigh/Raley/Canzone zones. Closed roof removes weather noise. MLB sample uncertainty keeps this below top tier.",,,,,,,,
+Pitcher Props,4,Paul Skenes O 7.5 K,58%,"Rockies offer K upside, and Skenes’ premium velocity/breaking stuff can overwhelm them. Line is high, so this needs normal pitch count/rest; not a blind over if price gets heavily juiced.",,,,,,,,
+Pitcher Props,5,Yoshinobu Yamamoto U 6.5 K,58%,"Big-name downgrade. Yamamoto’s splitter/curve whiff is elite, but SF’s top with Jung Hoo Lee/Luis Arraez is contact-oriented and suppresses early K pace. Prefer under 6.5; not under 5.5.",,,,,,,,
+Slate Context,Matchup,Venue,Weather,Away Pitcher,Home Pitcher,Away Top 3,Home Top 3,NRFI Screen Note,,,,
+Slate Context,LAA @ CLE,Progressive Field,"65°F, wind 5 mph",Walbert Urena,Slade Cecconi,Zach Neto (.316 wOBA); Mike Trout (.395); Nolan Schanuel (.301),Steven Kwan (.263); Chase DeLauter (.381); Jose Ramirez (.316),"Ranked #6 NRFI; light weather boost, Urena walk/top-order risk.",,,,
+Slate Context,NYY @ BAL,Oriole Park at Camden Yards,"68°F, wind 14 mph",Will Warren,Trevor Rogers,Paul Goldschmidt (.362); Aaron Judge (.427); Ben Rice (.456),Gunnar Henderson (.290); Taylor Ward (.362); Adley Rutschman (.387),Pass/low confidence due to Yankees top-order power and Camden run context.,,,,
+Slate Context,WAS @ CIN,Great American Ball Park,"76°F, wind 10 mph",Miles Mikolas,Brady Singer,James Wood (.386); Luis Garcia (.282); Brady House (.294),TJ Friedl (.247); Spencer Steer (.332); Elly De La Cruz (.374),Ranked #10 NRFI; hitter-friendly park keeps ceiling limited.,,,,
+Slate Context,COL @ PIT,PNC Park,"68°F, wind 9 mph",Michael Lorenzen,Paul Skenes,Edouard Julien (.334); Mickey Moniak (.419); Hunter Goodman (.349),Oneil Cruz (.338); Brandon Lowe (.396); Bryan Reynolds (.345),"Ranked #4 NRFI; Skenes anchor, Lorenzen vs PIT lefties is the risk.",,,,
+Slate Context,PHI @ BOS,Fenway Park,"62°F, wind 14 mph",Zack Wheeler,Jovani Moran,Trea Turner (.282); Kyle Schwarber (.399); Bryce Harper (.396),Jarren Duran (.255); Mickey Gasper (.847 small sample); Wilyer Abreu (.367),"Ranked #9 NRFI; Wheeler strong, Moran vs PHI top is problem.",,,,
+Slate Context,TB @ TOR,Rogers Centre,Retractable roof,Shane McClanahan,Patrick Corbin,Yandy Diaz (.360); Jonathan Aranda (.366); Junior Caminero (.356),George Springer (.272); Myles Straw (.355); Vladimir Guerrero Jr. (.340),Pass/low confidence due to Patrick Corbin exposure against disciplined TB top.,,,,
+Slate Context,DET @ NYM,Citi Field,"59°F, wind 19 mph",Jack Flaherty,Freddy Peralta,Kevin McGonigle (.367); Matt Vierling (.286); Colt Keith (.307),Carson Benge (.268); Bo Bichette (.249); Juan Soto (.349),Ranked #1 NRFI; pitcher-friendly park and strongest combined profile.,,,,
+Slate Context,CHC @ ATL,Truist Park,"72°F, wind 12 mph",Colin Rea,Grant Holmes,Nico Hoerner (.339); Michael Conforto (.471); Alex Bregman (.294),Drake Baldwin (.385); Ozzie Albies (.363); Matt Olson (.425),Pass/low confidence due to strong top-order bats on both sides.,,,,
+Slate Context,KC @ CWS,Rate Field,"72°F, wind 19 mph",Stephen Kolek,Erick Fedde,Maikel Garcia (.338); Bobby Witt Jr. (.362); Vinnie Pasquantino (.280),Sam Antonacci (.344); Munetaka Murakami (.383); Miguel Vargas (.363),Pass/low confidence due to wind and both top threes carrying OBP/power risk.,,,,
+Slate Context,SD @ MIL,American Family Field,Retractable roof,Bradgley Rodriguez,Brandon Sproat,Jackson Merrill (.290); Fernando Tatis Jr. (.274); Manny Machado (.290),Brice Turang (.402); Jackson Chourio (.398); Christian Yelich (.348),"Ranked #8 NRFI; roof and SD form help, MIL top three downgrade.",,,,
+Slate Context,MIA @ MIN,Target Field,"66°F, wind 30 mph",Eury Perez,Bailey Ober,Xavier Edwards (.387); Liam Hicks (.388); Otto Lopez (.380),Byron Buxton (.364); Trevor Larnach (.342); Ryan Jeffers (.390),Ranked #7 NRFI only if wind is not blowing out; high-contact top threes are red flags.,,,,
+Slate Context,ARI @ TEX,Globe Life Field,Retractable roof,Zac Gallen,MacKenzie Gore,Ketel Marte (.279); Corbin Carroll (.365); Geraldo Perdomo (.316),Joc Pederson (.301); Brandon Nimmo (.333); Corey Seager (.292),Ranked #2 NRFI; roof plus Gore matchup profile.,,,,
+Slate Context,SEA @ HOU,Daikin Park,Retractable roof,Bryan Woo,Tatsuya Imai,Brendan Donovan (.356); Julio Rodriguez (.343); Josh Naylor (.298),Jose Altuve (.316); Yordan Alvarez (.432); Isaac Paredes (.336),"Ranked #3 NRFI; Woo command and roof, with Yordan HR caveat.",,,,
+Slate Context,STL @ ATH,Sutter Health Park,"76°F, wind 20 mph",Andre Pallante,Jeffrey Springs,JJ Wetherholt (.333); Ivan Herrera (.361); Alec Burleson (.338),Nick Kurtz (.363); Shea Langeliers (.426); Tyler Soderstrom (.301),"Pass/low confidence due to Sutter run factor, wind, and top-order power.",,,,
+Slate Context,SF @ LAD,UNIQLO Field at Dodger Stadium,"65°F, wind 11 mph",Adrian Houser,Yoshinobu Yamamoto,Jung Hoo Lee (.302); Luis Arraez (.314); Casey Schmitt (.369),Shohei Ohtani (.329); Freddie Freeman (.334); Mookie Betts (.291),"Ranked #5 NRFI; Yamamoto edge, Houser vs LAD stars is risk.",,,,
+K Market Lines,Player,Team,Opponent,DraftKings Line,DK Over,DK Under,FanDuel Line,FD Over,FD Under,BetRivers Line,BR Over,BR Under
+K Market Lines,Paul Skenes,PIT,COL,7.5,-120,-107,7.5,-112,-118,7.5,-109,-122
+K Market Lines,Freddy Peralta,NYM,DET,6.5,107,-136,6.5,130,-174,5.5,-162,120
+K Market Lines,Will Warren,NYY,@BAL,5.5,-157,122,5.5,-152,114,6.5,110,-148
+K Market Lines,Zack Wheeler,PHI,@BOS,6.5,104,-132,6.5,104,-138,6.5,107,-143
+K Market Lines,Yoshinobu Yamamoto,LAD,SF,6.5,113,-144,5.5,-174,130,6.5,117,-157
+K Market Lines,Jack Flaherty,DET,@NYM,5.5,-126,-101,5.5,-125,-106,5.5,-115,-115
+K Market Lines,MacKenzie Gore,TEX,ARI,4.5,-156,125,5.5,116,-154,5.5,117,-157
+K Market Lines,Eury Perez,MIA,@MIN,5.5,107,-137,5.5,106,-140,5.5,115,-155
+K Market Lines,Bryan Woo,SEA,@HOU,5.5,-129,101,5.5,-136,102,5.5,,
+K Market Lines,Slade Cecconi,CLE,LAA,4.5,-137,107,4.5,-144,108,4.5,-129,-104
+K Market Lines,Zac Gallen,ARI,@TEX,4.5,-111,-114,4.5,-110,-120,4.5,-127,-105
+K Market Lines,Grant Holmes,ATL,CHC,4.5,102,-131,4.5,112,-148,4.5,105,-139
+K Market Lines,Tatsuya Imai,HOU,SEA,4.5,-135,108,4.5,-138,104,4.5,-148,110
+K Market Lines,Shane McClanahan,TB,@TOR,4.5,-118,-105,4.5,-118,-112,4.5,-112,-120
+K Market Lines,Bailey Ober,MIN,MIA,4.5,127,-160,4.5,120,-160,4.5,128,-175
+K Market Lines,Colin Rea,CHC,@ATL,4.5,129,-165,4.5,118,-158,4.5,118,-157
+K Market Lines,Trevor Rogers,BAL,NYY,4.5,-135,106,4.5,-136,102,4.5,-137,104
+K Market Lines,Brady Singer,CIN,WSH,4.5,-109,-117,4.5,-114,-114,4.5,-115,-115
+K Market Lines,Jeffrey Springs,ATH,STL,4.5,-101,-127,4.5,-102,-130,4.5,-103,-130
+K Market Lines,Brandon Sproat,MIL,SD,4.5,-112,-114,4.5,-104,-128,4.5,-103,-130
+K Market Lines,Matt Waldron,SD,@MIL,3.5,,,3.5,,,3.5,,
+K Market Lines,Patrick Corbin,TOR,TB,3.5,117,-150,3.5,112,-148,3.5,115,-155
+K Market Lines,Erick Fedde,CWS,KC,3.5,116,-148,3.5,116,-154,3.5,107,-141
+K Market Lines,Adrian Houser,SF,@LAD,3.5,114,-145,3.5,116,-154,3.5,116,-155
+K Market Lines,Stephen Kolek,KC,@CWS,3.5,-143,112,3.5,-162,122,3.5,-155,116
+K Market Lines,Michael Lorenzen,COL,@PIT,3.5,-143,112,3.5,-138,104,3.5,-148,112
+K Market Lines,Miles Mikolas,WSH,@CIN,3.5,116,-148,3.5,114,-152,3.5,102,-134
+K Market Lines,Andre Pallante,STL,@ATH,3.5,-125,-102,3.5,-118,-112,3.5,-120,-112
+K Market Lines,Walbert Urena,LAA,@CLE,3.5,-112,-113,3.5,-108,-122,3.5,-110,-121
+Notes,Item,Detail,,,,,,,,,,
+Notes,Generated,2026-05-12 21:50:53 UTC,,,,,,,,,,
+Notes,Slate date,"May 12, 2026",,,,,,,,,,
+Notes,Analyst role,Senior MLB Data Scientist and Sports Betting Quantitative Analyst,,,,,,,,,,
+Notes,Data note,"Screened confirmed/probable MLB slate using available lineup, weather, park-factor and prop-market data. Exact Statcast hot-zone splits, last-10-start first-inning WHIP/ERA, and home-plate umpire assignments were not fully public in fetched sources, so pitch-type/whiff notes are modeled estimates. Confirm lines before betting.",,,,,,,,,,
+Notes,Best overall value profile,MacKenzie Gore O 4.5 K and Freddy Peralta O 5.5 K if that number is still available.,,,,,,,,,,
+Notes,Pass/low-confidence NRFI spots,"NYY @ BAL, TB @ TOR, CHC @ ATL, KC @ CWS, STL @ ATH due to top-order power, park/weather risk, or weak first-inning pitcher profile.",,,,,,,,,,
+Notes,Primary sources checked,FantasyPros lineups/weather/probable pitchers; RotoWire pitcher strikeout prop markets; FantasyPros park factors; FantasyTeamAdvice outs-recorded page; public web search for umpire assignments.,,,,,,,,,,
+Notes,Responsible betting,Informational and entertainment purposes only. Lines move quickly; verify sportsbook numbers and wager only within your limits.,,,,,,,,,,
