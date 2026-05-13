@@ -14,6 +14,7 @@ reports/                 # Aggregate performance summaries
 scripts/
   create_daily_template.py
   grade_picks.py
+  make_nrfi_results_report.py
   make_prop_results_report.py
   summarize_performance.py
 ```
@@ -122,7 +123,22 @@ reports/2026-05-12_prop_results.md
 reports/2026-05-12_prop_results.csv
 ```
 
-### 6. Learn from it before tomorrow's picks
+### 6. Make an NRFI-only hit/miss report
+
+If you only want to see which NRFI picks hit or missed:
+
+```bash
+python3 scripts/make_nrfi_results_report.py --date 2026-05-12
+```
+
+This writes:
+
+```text
+reports/2026-05-12_nrfi_results.md
+reports/2026-05-12_nrfi_results.csv
+```
+
+### 7. Learn from it before tomorrow's picks
 
 Update `data/model_notes/ace_logic_v1.md` or create a new model note such as `ace_logic_v2.md`.
 
