@@ -1,0 +1,11 @@
+date,pick_id,type,matchup,player,market,actual,notes
+2026-05-13,2026-05-13-nrfi-01,NRFI,SD @ MIL,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-nrfi-02,NRFI,LAA @ CLE,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-nrfi-03,NRFI,DET @ NYM,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-nrfi-04,NRFI,TB @ TOR,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-nrfi-05,NRFI,KC @ CWS,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-prop-01,PROP,COL @ PIT,Mitch Keller,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-prop-02,PROP,DET @ NYM,Christian Scott,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-prop-03,PROP,TB @ TOR,Dylan Cease,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-prop-04,PROP,NYY @ BAL,Max Fried,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-prop-05,PROP,MIA @ MIN,Max Meyer,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
