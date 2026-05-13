@@ -1,16 +1,16 @@
 date,pick_id,type,matchup,player,market,actual,notes
-2026-05-12,2026-05-12-nrfi-01,NRFI,DET @ NYM,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-nrfi-02,NRFI,ARI @ TEX,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-nrfi-03,NRFI,SEA @ HOU,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-nrfi-04,NRFI,COL @ PIT,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-nrfi-05,NRFI,SF @ LAD,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-nrfi-06,NRFI,LAA @ CLE,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-nrfi-07,NRFI,MIA @ MIN,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-nrfi-08,NRFI,SD @ MIL,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-nrfi-09,NRFI,PHI @ BOS,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-nrfi-10,NRFI,WAS @ CIN,,FIRST_INNING_RUNS,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-prop-01,PROP,ARI @ TEX,MacKenzie Gore,K,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-prop-02,PROP,DET @ NYM,Freddy Peralta,K,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-prop-03,PROP,SEA @ HOU,Tatsuya Imai,K,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-prop-04,PROP,COL @ PIT,Paul Skenes,K,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-12,2026-05-12-prop-05,PROP,SF @ LAD,Yoshinobu Yamamoto,K,,Fill actual after final box scores. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-12,2026-05-12-nrfi-01,NRFI,DET @ NYM,,FIRST_INNING_RUNS,0,No first-inning runs; DET @ NYM NRFI hit.
+2026-05-12,2026-05-12-nrfi-02,NRFI,ARI @ TEX,,FIRST_INNING_RUNS,1,Texas scored in the first; ARI @ TEX NRFI lost.
+2026-05-12,2026-05-12-nrfi-03,NRFI,SEA @ HOU,,FIRST_INNING_RUNS,0,No first-inning runs; SEA @ HOU NRFI hit.
+2026-05-12,2026-05-12-nrfi-04,NRFI,COL @ PIT,,FIRST_INNING_RUNS,1,Pittsburgh scored in the first; COL @ PIT NRFI lost.
+2026-05-12,2026-05-12-nrfi-05,NRFI,SF @ LAD,,FIRST_INNING_RUNS,1,Los Angeles scored in the first; SF @ LAD NRFI lost.
+2026-05-12,2026-05-12-nrfi-06,NRFI,LAA @ CLE,,FIRST_INNING_RUNS,0,No first-inning runs; LAA @ CLE NRFI hit.
+2026-05-12,2026-05-12-nrfi-07,NRFI,MIA @ MIN,,FIRST_INNING_RUNS,0,No first-inning runs; MIA @ MIN NRFI hit.
+2026-05-12,2026-05-12-nrfi-08,NRFI,SD @ MIL,,FIRST_INNING_RUNS,0,No first-inning runs; SD @ MIL NRFI hit.
+2026-05-12,2026-05-12-nrfi-09,NRFI,PHI @ BOS,,FIRST_INNING_RUNS,1,Philadelphia scored in the first; PHI @ BOS NRFI lost.
+2026-05-12,2026-05-12-nrfi-10,NRFI,WAS @ CIN,,FIRST_INNING_RUNS,0,No first-inning runs; WAS @ CIN NRFI hit.
+2026-05-12,2026-05-12-prop-01,PROP,ARI @ TEX,MacKenzie Gore,K,5,"MacKenzie Gore recorded 5 strikeouts vs ARI, clearing O 4.5 K."
+2026-05-12,2026-05-12-prop-02,PROP,DET @ NYM,Freddy Peralta,K,7,"Freddy Peralta recorded 7 strikeouts vs DET, clearing O 5.5 K."
+2026-05-12,2026-05-12-prop-03,PROP,SEA @ HOU,Tatsuya Imai,K,3,"Tatsuya Imai recorded 3 strikeouts vs SEA, falling short of O 4.5 K."
+2026-05-12,2026-05-12-prop-04,PROP,COL @ PIT,Paul Skenes,K,10,"Paul Skenes recorded 10 strikeouts vs COL, clearing O 7.5 K."
+2026-05-12,2026-05-12-prop-05,PROP,SF @ LAD,Yoshinobu Yamamoto,K,8,"Yoshinobu Yamamoto recorded 8 strikeouts vs SF, going over 6.5 K and losing the under."
