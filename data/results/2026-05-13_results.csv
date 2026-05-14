@@ -1,11 +1,11 @@
 date,pick_id,type,matchup,player,market,actual,notes
-2026-05-13,2026-05-13-nrfi-01,NRFI,SD @ MIL,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-13,2026-05-13-nrfi-02,NRFI,LAA @ CLE,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-13,2026-05-13-nrfi-03,NRFI,DET @ NYM,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-13,2026-05-13-nrfi-04,NRFI,TB @ TOR,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-13,2026-05-13-nrfi-05,NRFI,KC @ CWS,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-13,2026-05-13-prop-01,PROP,COL @ PIT,Mitch Keller,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-13,2026-05-13-prop-02,PROP,DET @ NYM,Christian Scott,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-13,2026-05-13-prop-03,PROP,TB @ TOR,Dylan Cease,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-13,2026-05-13-prop-04,PROP,NYY @ BAL,Max Fried,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-13,2026-05-13-prop-05,PROP,MIA @ MIN,Max Meyer,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-13,2026-05-13-nrfi-01,NRFI,SD @ MIL,,FIRST_INNING_RUNS,0,No first-inning runs; SD @ MIL NRFI hit.
+2026-05-13,2026-05-13-nrfi-02,NRFI,LAA @ CLE,,FIRST_INNING_RUNS,2,Cleveland scored 2 in the first; LAA @ CLE NRFI lost.
+2026-05-13,2026-05-13-nrfi-03,NRFI,DET @ NYM,,FIRST_INNING_RUNS,2,Detroit scored 2 in the first; DET @ NYM NRFI lost.
+2026-05-13,2026-05-13-nrfi-04,NRFI,TB @ TOR,,FIRST_INNING_RUNS,0,No first-inning runs; TB @ TOR NRFI hit.
+2026-05-13,2026-05-13-nrfi-05,NRFI,KC @ CWS,,FIRST_INNING_RUNS,0,No first-inning runs; KC @ CWS NRFI hit.
+2026-05-13,2026-05-13-prop-01,PROP,COL @ PIT,Mitch Keller,K,3,"Mitch Keller recorded 3 strikeouts vs COL, falling short of O 4.5 K."
+2026-05-13,2026-05-13-prop-02,PROP,DET @ NYM,Christian Scott,K,5,"Christian Scott recorded 5 strikeouts vs DET, clearing O 4.5 K."
+2026-05-13,2026-05-13-prop-03,PROP,TB @ TOR,Dylan Cease,K,9,"Dylan Cease recorded 9 strikeouts vs TB, clearing O 6.5 K."
+2026-05-13,2026-05-13-prop-04,PROP,NYY @ BAL,Max Fried,K,2,"Max Fried recorded 2 strikeouts vs BAL, falling short of O 5.5 K."
+2026-05-13,2026-05-13-prop-05,PROP,MIA @ MIN,Max Meyer,K,9,"Max Meyer recorded 9 strikeouts vs MIN, clearing O 4.5 K."
