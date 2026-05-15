@@ -1,0 +1,10 @@
+date,pick_id,type,matchup,player,market,actual,notes
+2026-05-15,2026-05-15-nrfi-01,NRFI,SD @ SEA,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-15,2026-05-15-nrfi-02,NRFI,NYY @ NYM,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-15,2026-05-15-nrfi-03,NRFI,PHI @ PIT,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-15,2026-05-15-nrfi-04,NRFI,MIA @ TB,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-15,2026-05-15-prop-01,PROP,LAD @ LAA,Blake Snell,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-15,2026-05-15-prop-02,PROP,BOS @ ATL,Spencer Strider,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-15,2026-05-15-prop-03,PROP,CHC @ CWS,Edward Cabrera,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-15,2026-05-15-prop-04,PROP,BAL @ WSH,Shane Baz,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-15,2026-05-15-prop-05,PROP,NYY @ NYM,Clay Holmes,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
