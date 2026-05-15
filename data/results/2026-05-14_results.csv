@@ -1,9 +1,9 @@
 date,pick_id,type,matchup,player,market,actual,notes
-2026-05-14,2026-05-14-nrfi-01,NRFI,PHI @ BOS,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-14,2026-05-14-nrfi-02,NRFI,CHC @ ATL,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-14,2026-05-14-nrfi-03,NRFI,KC @ CWS,,FIRST_INNING_RUNS,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-14,2026-05-14-prop-01,PROP,CHC @ ATL,Chris Sale,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-14,2026-05-14-prop-02,PROP,KC @ CWS,Kris Bubic,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-14,2026-05-14-prop-03,PROP,KC @ CWS,Anthony Kay,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-14,2026-05-14-prop-04,PROP,SF @ LAD,Landen Roupp,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
-2026-05-14,2026-05-14-prop-05,PROP,CHC @ ATL,Ben Brown,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-14,2026-05-14-nrfi-01,NRFI,PHI @ BOS,,FIRST_INNING_RUNS,0,No first-inning runs; PHI @ BOS NRFI hit.
+2026-05-14,2026-05-14-nrfi-02,NRFI,CHC @ ATL,,FIRST_INNING_RUNS,0,No first-inning runs; CHC @ ATL NRFI hit.
+2026-05-14,2026-05-14-nrfi-03,NRFI,KC @ CWS,,FIRST_INNING_RUNS,3,Both teams scored in the first; KC @ CWS NRFI lost with 3 total first-inning runs.
+2026-05-14,2026-05-14-prop-01,PROP,CHC @ ATL,Chris Sale,K,8,"Chris Sale recorded 8 strikeouts vs CHC, clearing O 6.5 K."
+2026-05-14,2026-05-14-prop-02,PROP,KC @ CWS,Kris Bubic,K,4,"Kris Bubic recorded 4 strikeouts vs CWS, falling short of O 5.5 K."
+2026-05-14,2026-05-14-prop-03,PROP,KC @ CWS,Anthony Kay,K,4,"Anthony Kay recorded 4 strikeouts vs KC, going over 3.5 K and losing the under."
+2026-05-14,2026-05-14-prop-04,PROP,SF @ LAD,Landen Roupp,K,7,"Landen Roupp recorded 7 strikeouts vs LAD, going over 5.5 K and losing the under."
+2026-05-14,2026-05-14-prop-05,PROP,CHC @ ATL,Ben Brown,K,7,"Ben Brown recorded 7 strikeouts vs ATL, clearing O 3.5 K."

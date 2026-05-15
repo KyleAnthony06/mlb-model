@@ -1,0 +1,4 @@
+result,matchup,pick,first_inning_runs,confidence,quick_note
+HIT,PHI @ BOS,NRFI,0,57%,No first-inning runs; PHI @ BOS NRFI hit.
+HIT,CHC @ ATL,NRFI,0,55%,No first-inning runs; CHC @ ATL NRFI hit.
+MISS,KC @ CWS,NRFI,3,53%,Both teams scored in the first; KC @ CWS NRFI lost with 3 total first-inning runs.

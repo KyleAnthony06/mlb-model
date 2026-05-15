@@ -1,0 +1,6 @@
+result,player_prop,matchup,actual,line,confidence,quick_note
+HIT,Chris Sale Over 6.5 K,CHC @ ATL,8,6.5,63%,"Chris Sale recorded 8 strikeouts vs CHC, clearing O 6.5 K."
+MISS,Kris Bubic Over 5.5 K,KC @ CWS,4,5.5,61%,"Kris Bubic recorded 4 strikeouts vs CWS, falling short of O 5.5 K."
+MISS,Anthony Kay Under 3.5 K,KC @ CWS,4,3.5,60%,"Anthony Kay recorded 4 strikeouts vs KC, going over 3.5 K and losing the under."
+MISS,Landen Roupp Under 5.5 K,SF @ LAD,7,5.5,59%,"Landen Roupp recorded 7 strikeouts vs LAD, going over 5.5 K and losing the under."
+HIT,Ben Brown Over 3.5 K,CHC @ ATL,7,3.5,58%,"Ben Brown recorded 7 strikeouts vs ATL, clearing O 3.5 K."
