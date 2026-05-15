@@ -26,6 +26,17 @@
 | 4 | Shane Baz O 4.5 K | 60% | Strong stuff at a discounted 4.5 line; avoid if only 5.5 is available. |
 | 5 | Clay Holmes O 4.5 K | 58% | Low line and starter workload path; capped by Yankees power/traffic risk. |
 
+
+## Today's hitter props
+
+| Rank | Player & Prop | Confidence | Why |
+|---:|---|---:|---|
+| 1 | Nick Kurtz O 1.5 TB | 62% | Sutter Health Park, 91°F, 10.0 total, leadoff role, and strong FTA projection/value. |
+| 2 | Mickey Moniak O 1.5 TB | 61% | Coors/high-total setup vs Merrill Kelly; FTA projected 2.8 TB and 72% cover. |
+| 3 | Ketel Marte O 1.5 TB | 60% | Leadoff at Coors vs Kyle Freeland with elite PA/park setup; juiced line caps confidence. |
+| 4 | Bryce Harper O 1.5 TB | 57% | Plus-money value vs Braxton Ashcraft; PNC caps HR carry but not all 2+ TB paths. |
+| 5 | Liam Hicks O 0.5 HR | 52% | Longshot value only: projection around 17.2% vs roughly 10% implied at +825. |
+
 ## Notable passes
 
 - ARI @ COL NRFI: Coors, 82 degrees, wind out, and 11.5 total are an automatic pass.
@@ -34,6 +45,7 @@
 - BAL @ WSH NRFI: 9.5 total and weak run-prevention profiles fail the two-sided screen.
 - TEX @ HOU NRFI: Dome helps, but Yordan/Altuve and Texas lefty top-order quality create too much first-inning damage risk.
 - K unders: mostly passed because May 14 showed poor margin without clear pitch-count/opener edges.
+- Hitter props are new today and are tracked separately by market (`TB`, `HR`) in the same picks CSV.
 
 ## Tracking files
 

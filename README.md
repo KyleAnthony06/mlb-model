@@ -42,6 +42,7 @@ Use:
 
 - `type=NRFI`, `pick=NRFI`, `market=FIRST_INNING_RUNS`, blank `line`
 - `type=PROP`, `pick=OVER` or `UNDER`, `market=K` or another stat, numeric `line`
+- Hitter props also use `type=PROP`; examples include `market=TB` for total bases and `market=HR` for home runs.
 
 To create blank files for a new slate:
 
@@ -65,6 +66,13 @@ For pitcher K props:
 
 ```text
 actual = final pitcher strikeout total
+```
+
+For hitter props:
+
+```text
+TB actual = hitter total bases
+HR actual = hitter home runs
 ```
 
 Example:

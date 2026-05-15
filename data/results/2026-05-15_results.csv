@@ -8,3 +8,8 @@ date,pick_id,type,matchup,player,market,actual,notes
 2026-05-15,2026-05-15-prop-03,PROP,CHC @ CWS,Edward Cabrera,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
 2026-05-15,2026-05-15-prop-04,PROP,BAL @ WSH,Shane Baz,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
 2026-05-15,2026-05-15-prop-05,PROP,NYY @ NYM,Clay Holmes,K,,Fill after games are final. NRFI actual = total 1st inning runs; K actual = pitcher strikeouts.
+2026-05-15,2026-05-15-hitter-01,PROP,SF @ ATH,Nick Kurtz,TB,,Fill after games are final. TB actual = total bases; HR actual = home runs.
+2026-05-15,2026-05-15-hitter-02,PROP,ARI @ COL,Mickey Moniak,TB,,Fill after games are final. TB actual = total bases; HR actual = home runs.
+2026-05-15,2026-05-15-hitter-03,PROP,ARI @ COL,Ketel Marte,TB,,Fill after games are final. TB actual = total bases; HR actual = home runs.
+2026-05-15,2026-05-15-hitter-04,PROP,PHI @ PIT,Bryce Harper,TB,,Fill after games are final. TB actual = total bases; HR actual = home runs.
+2026-05-15,2026-05-15-hitter-05,PROP,MIA @ TB,Liam Hicks,HR,,Fill after games are final. TB actual = total bases; HR actual = home runs.
