@@ -1,0 +1,18 @@
+date,pick_id,type,matchup,pick,player,market,line,confidence,reasoning,model_version
+2026-06-08,2026-06-08-fi-01,NRFI,SEA @ BAL,YRFI,,FIRST_INNING_RUNS,,54,"Camden, 78°F, 13 mph wind, and both top threes having OBP/power paths make first-inning scoring slightly more likely than a clean NRFI.",ace_logic_v5
+2026-06-08,2026-06-08-fi-02,NRFI,NYY @ CLE,NRFI,,FIRST_INNING_RUNS,,53,"Gavin Williams is the anchor and the Yankees projected top lacks Judge, but 85°F and Cleveland top-order contact keep this low confidence.",ace_logic_v5
+2026-06-08,2026-06-08-fi-03,NRFI,BOS @ TB,NRFI,,FIRST_INNING_RUNS,,54,"Indoor setting and two left-handed starters support run suppression, but Tampa top three of Diaz/Aranda/Caminero caps confidence.",ace_logic_v5
+2026-06-08,2026-06-08-fi-04,NRFI,PHI @ TOR,YRFI,,FIRST_INNING_RUNS,,56,Patrick Corbin vs Turner/Schwarber/Harper and Toronto right-handed bats vs Sanchez create enough first-inning scoring risk to lean YRFI.,ace_logic_v5
+2026-06-08,2026-06-08-fi-05,NRFI,HOU @ LAA,YRFI,,FIRST_INNING_RUNS,,55,Yordan/Altuve/Pena and Trout/Neto give both sides first-inning paths despite playable starting pitching.,ace_logic_v5
+2026-06-08,2026-06-08-fi-06,NRFI,CIN @ SD,NRFI,,FIRST_INNING_RUNS,,58,"Petco, moderate weather, and Buehler/Abbott run-prevention profiles make this the cleaner NRFI side among late games.",ace_logic_v5
+2026-06-08,2026-06-08-fi-07,NRFI,WSH @ SF,NRFI,,FIRST_INNING_RUNS,,60,"Oracle Park, 62°F, Logan Webb anchor, and a weak Washington lower-power top-three profile make this the top NRFI on the slate.",ace_logic_v5
+2026-06-08,2026-06-08-fi-08,NRFI,MIL @ ATH,YRFI,,FIRST_INNING_RUNS,,62,"Las Vegas Ballpark, 87°F, 24 mph wind, and strong top-order bats make this the clearest YRFI environment.",ace_logic_v5
+2026-06-08,2026-06-08-pitcher-01,PROP,NYY @ CLE,OVER,Gavin Williams,K,6.5,61,Yankees are lefty-heavy with several K pockets and no projected Judge. Williams has the best K-over blend of stuff and matchup on today’s board.,ace_logic_v5
+2026-06-08,2026-06-08-pitcher-02,PROP,HOU @ LAA,OVER,Grayson Rodriguez,K,5.5,60,Houston has dangerous bats but enough swing-and-miss behind Alvarez/Altuve; Grayson has a normal starter workload path.,ace_logic_v5
+2026-06-08,2026-06-08-pitcher-03,PROP,WSH @ SF,UNDER,Logan Webb,K,5.5,60,"Webb is excellent but not a pure whiff arm, and Washington’s projected lefty/contact top can suppress strikeout volume.",ace_logic_v5
+2026-06-08,2026-06-08-pitcher-04,PROP,SEA @ BAL,OVER,Emerson Hancock,K,4.5,58,"Baltimore has power but also K pockets from the middle/lower order. Low line makes this playable, but Camden risk caps it.",ace_logic_v5
+2026-06-08,2026-06-08-hitter-01,PROP,HOU @ LAA,OVER,Yordan Alvarez,TB,1.5,62,"Elite total-base profile, strong form, and a fair 1.5 line. Best hitter prop from a non-Coors slate.",ace_logic_v5
+2026-06-08,2026-06-08-hitter-02,PROP,MIL @ ATH,OVER,Jackson Chourio,TB,1.5,61,Vegas/Las Vegas Ballpark run environment with 87°F and 24 mph wind supports extra-base upside from the leadoff spot.,ace_logic_v5
+2026-06-08,2026-06-08-hitter-03,PROP,MIL @ ATH,OVER,Nick Kurtz,TB,1.5,60,High-run environment and strong wOBA profile; same park/weather logic that makes the game a YRFI target supports total bases.,ace_logic_v5
+2026-06-08,2026-06-08-hitter-04,PROP,BOS @ TB,OVER,Junior Caminero,TB,1.5,59,Right-handed power bat facing a lefty in a controlled dome setting; plus-money total-base line gives value.,ace_logic_v5
+2026-06-08,2026-06-08-hitter-05,PROP,PHI @ TOR,OVER,Vladimir Guerrero Jr.,TB,1.5,58,Right-handed middle-order bat against a lefty with roof stability; capped because Sanchez is a quality arm.,ace_logic_v5

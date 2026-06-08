@@ -1,0 +1,18 @@
+date,pick_id,type,matchup,player,market,actual,notes
+2026-06-08,2026-06-08-fi-01,NRFI,SEA @ BAL,,FIRST_INNING_RUNS,,Fill after games are final. NRFI/YRFI actual = total first-inning runs.
+2026-06-08,2026-06-08-fi-02,NRFI,NYY @ CLE,,FIRST_INNING_RUNS,,Fill after games are final. NRFI/YRFI actual = total first-inning runs.
+2026-06-08,2026-06-08-fi-03,NRFI,BOS @ TB,,FIRST_INNING_RUNS,,Fill after games are final. NRFI/YRFI actual = total first-inning runs.
+2026-06-08,2026-06-08-fi-04,NRFI,PHI @ TOR,,FIRST_INNING_RUNS,,Fill after games are final. NRFI/YRFI actual = total first-inning runs.
+2026-06-08,2026-06-08-fi-05,NRFI,HOU @ LAA,,FIRST_INNING_RUNS,,Fill after games are final. NRFI/YRFI actual = total first-inning runs.
+2026-06-08,2026-06-08-fi-06,NRFI,CIN @ SD,,FIRST_INNING_RUNS,,Fill after games are final. NRFI/YRFI actual = total first-inning runs.
+2026-06-08,2026-06-08-fi-07,NRFI,WSH @ SF,,FIRST_INNING_RUNS,,Fill after games are final. NRFI/YRFI actual = total first-inning runs.
+2026-06-08,2026-06-08-fi-08,NRFI,MIL @ ATH,,FIRST_INNING_RUNS,,Fill after games are final. NRFI/YRFI actual = total first-inning runs.
+2026-06-08,2026-06-08-pitcher-01,PROP,NYY @ CLE,Gavin Williams,K,,Fill after games are final. K actual = pitcher strikeouts.
+2026-06-08,2026-06-08-pitcher-02,PROP,HOU @ LAA,Grayson Rodriguez,K,,Fill after games are final. K actual = pitcher strikeouts.
+2026-06-08,2026-06-08-pitcher-03,PROP,WSH @ SF,Logan Webb,K,,Fill after games are final. K actual = pitcher strikeouts.
+2026-06-08,2026-06-08-pitcher-04,PROP,SEA @ BAL,Emerson Hancock,K,,Fill after games are final. K actual = pitcher strikeouts.
+2026-06-08,2026-06-08-hitter-01,PROP,HOU @ LAA,Yordan Alvarez,TB,,Fill after games are final. TB actual = hitter total bases.
+2026-06-08,2026-06-08-hitter-02,PROP,MIL @ ATH,Jackson Chourio,TB,,Fill after games are final. TB actual = hitter total bases.
+2026-06-08,2026-06-08-hitter-03,PROP,MIL @ ATH,Nick Kurtz,TB,,Fill after games are final. TB actual = hitter total bases.
+2026-06-08,2026-06-08-hitter-04,PROP,BOS @ TB,Junior Caminero,TB,,Fill after games are final. TB actual = hitter total bases.
+2026-06-08,2026-06-08-hitter-05,PROP,PHI @ TOR,Vladimir Guerrero Jr.,TB,,Fill after games are final. TB actual = hitter total bases.

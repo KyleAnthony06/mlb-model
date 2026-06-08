@@ -66,6 +66,10 @@ def grade_pick(pick: Dict[str, str], result: Dict[str, str] | None) -> Tuple[str
     if result is None or not (result.get("actual") or "").strip():
         return "PENDING", "Missing actual result"
 
+    actual_text = result["actual"].strip().upper()
+    if actual_text in {"VOID", "DNP", "NA", "N/A"}:
+        return "PUSH", "Void/no-action result"
+
     actual = parse_float(result["actual"])
     pick_type = pick["type"].upper().strip()
     side = pick["pick"].upper().strip()
