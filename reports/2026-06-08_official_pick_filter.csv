@@ -1,0 +1,9 @@
+status,pick_id,type,matchup,pick,player,market,line,confidence,market_price,edge,reasoning
+WATCHLIST_NEEDS_PRICE,2026-06-08-fi-07,NRFI,WSH @ SF,NRFI,,FIRST_INNING_RUNS,,60.0%,,,"Oracle Park, 62°F, Logan Webb anchor, and a weak Washington lower-power top-three profile make this the top NRFI on the slate."
+WATCHLIST_NEEDS_PRICE,2026-06-08-fi-08,NRFI,MIL @ ATH,YRFI,,FIRST_INNING_RUNS,,62.0%,,,"Las Vegas Ballpark, 87°F, 24 mph wind, and strong top-order bats make this the clearest YRFI environment."
+WATCHLIST_NEEDS_PRICE,2026-06-08-pitcher-01,PROP,NYY @ CLE,OVER,Gavin Williams,K,6.5,61.0%,,,Yankees are lefty-heavy with several K pockets and no projected Judge. Williams has the best K-over blend of stuff and matchup on today’s board.
+WATCHLIST_NEEDS_PRICE,2026-06-08-pitcher-02,PROP,HOU @ LAA,OVER,Grayson Rodriguez,K,5.5,60.0%,,,Houston has dangerous bats but enough swing-and-miss behind Alvarez/Altuve; Grayson has a normal starter workload path.
+WATCHLIST_NEEDS_PRICE,2026-06-08-pitcher-03,PROP,WSH @ SF,UNDER,Logan Webb,K,5.5,60.0%,,,"Webb is excellent but not a pure whiff arm, and Washington’s projected lefty/contact top can suppress strikeout volume."
+WATCHLIST_NEEDS_PRICE,2026-06-08-hitter-01,PROP,HOU @ LAA,OVER,Yordan Alvarez,TB,1.5,62.0%,,,"Elite total-base profile, strong form, and a fair 1.5 line. Best hitter prop from a non-Coors slate."
+WATCHLIST_NEEDS_PRICE,2026-06-08-hitter-02,PROP,MIL @ ATH,OVER,Jackson Chourio,TB,1.5,61.0%,,,Vegas/Las Vegas Ballpark run environment with 87°F and 24 mph wind supports extra-base upside from the leadoff spot.
+WATCHLIST_NEEDS_PRICE,2026-06-08-hitter-03,PROP,MIL @ ATH,OVER,Nick Kurtz,TB,1.5,60.0%,,,High-run environment and strong wOBA profile; same park/weather logic that makes the game a YRFI target supports total bases.

@@ -13,6 +13,7 @@ data/
 reports/                 # Aggregate performance summaries
 scripts/
   create_daily_template.py
+  filter_official_picks.py
   grade_picks.py
   make_nrfi_results_report.py
   make_prop_results_report.py
@@ -160,3 +161,50 @@ Only promote repeatable lessons into the model. Examples:
 Then ask for the next slate with context like:
 
 > Use the graded results and model notes in this repo, update the Ace Logic model, and make tomorrow's MLB NRFI and pitcher-prop picks.
+
+## Prediction market mode
+
+Starting with `ace_logic_v7`, picks intended for prediction markets should be much more selective.
+
+Default rules:
+
+- Separate **official picks** from watchlist/informational leans.
+- Prefer 1-3 official straight picks per slate.
+- Require enough edge over the market price.
+- Skip the slate if nothing qualifies.
+
+Market prices are implied probabilities:
+
+```text
+57 cents = 57%
+0.57 = 57%
+```
+
+For an official pick, target:
+
+```text
+model confidence - market price >= 5 percentage points
+```
+
+To filter a slate after adding market prices:
+
+```bash
+python3 scripts/filter_official_picks.py --date 2026-06-08 --market-prices data/market_prices/2026-06-08_prices.csv
+```
+
+Market price CSV format:
+
+```csv
+pick_id,market_price
+2026-06-08-fi-07,54
+2026-06-08-hitter-01,55
+```
+
+If prices are not available, the filter will label qualifying picks as `WATCHLIST_NEEDS_PRICE` rather than official bets.
+
+See:
+
+```text
+data/model_notes/ace_logic_v7.md
+data/model_notes/prediction_market_policy.md
+```
