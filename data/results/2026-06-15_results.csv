@@ -1,0 +1,4 @@
+date,pick_id,type,matchup,player,market,actual,notes
+2026-06-15,2026-06-15-official-01,NRFI,PIT @ ATH,,FIRST_INNING_RUNS,,Fill after games are final. YRFI actual = total first-inning runs; 1+ wins YRFI.
+2026-06-15,2026-06-15-official-02,PROP,COL @ CHC,Pete Crow-Armstrong,TB,,Fill after games are final. TB actual = hitter total bases.
+2026-06-15,2026-06-15-official-03,PROP,MIA @ PHI,Zack Wheeler,K,,Fill after games are final. K actual = pitcher strikeouts.
